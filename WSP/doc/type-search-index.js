@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Intranet","l":"Admin"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"Intranet","l":"DataBase"},{"p":"Intranet","l":"LessonsGenerator"},{"p":"Intranet","l":"Manager"},{"p":"Intranet","l":"Request"},{"p":"Comparators","l":"StudentsComparator"}];updateSearchResults();
